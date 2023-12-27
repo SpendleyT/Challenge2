@@ -26,6 +26,10 @@ Use the sheet alphabetical_testing.xlsx while developing your code. This dataset
 
 Make sure that the script acts the same on every sheet. The joy of VBA is that it takes the tediousness out of repetitive tasks with the click of a button.
 
+#Macro Instructions
+Import StockAnalyzer.bas into your worksheet.
+Run the macro Analyze_Sheet
+
 #Resources - VBA Code Help
 Looping thru worksheets in workbook:  https://stackoverflow.com/questions/21918166/excel-vba-for-each-worksheet-loop
 Finding populated row count:  https://answers.microsoft.com/en-us/msoffice/forum/all/to-count-non-empty-cells-in-column-b-in-vba/1874e1b9-46c9-46db-829a-8a006a11031c
